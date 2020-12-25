@@ -1,4 +1,5 @@
 ## YeeHaw project  
+![YeeHaw dice game](/assets/banner.jpg)
 
 ### Game idea  
 #### 1 stage:  

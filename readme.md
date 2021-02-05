@@ -13,3 +13,14 @@ At the end of all rounds if the user has a valid poker hand (at least a pair), h
 
 #### 3 stage:
 Prize screen; In case the user didn't gather any meaningfull combination, he gets the consolation prize.
+
+### Getting started
+If you haven't started it before, please type:
+```
+npm install
+```
+
+To start project, please type:
+```
+npm run dev
+```

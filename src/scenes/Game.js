@@ -1,4 +1,8 @@
 /* globals __DEV__ */
+
+
+/* ONLY FOR EXAMPLE */
+
 import Phaser from 'phaser'
 import Mushroom from '../elements/Mushroom'
 

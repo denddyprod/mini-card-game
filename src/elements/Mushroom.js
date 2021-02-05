@@ -1,4 +1,5 @@
 import Phaser from 'phaser'
+/* ONLY FOR EXAMPLE */
 
 export default class extends Phaser.Sprite {
   constructor ({ game, x, y, asset }) {
